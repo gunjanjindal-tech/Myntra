@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.myx-base {
+    width: 1200px;
+    height: 2358.34px;
+    border: 2px solid red;
+    margin: auto;
+}
+
+.two-part {
+    display: flex;
+    width: 1512px;
+    height: 344.4px;
+}
+
+.myx1 {
+    width: 1312px;
+    height: 200.81px;
+    /* margin-bottom: 1px; */
+
+}
+
+.myx2 {
+    width: 656px;
+    height: 344.4px;
+
+}
+
+.images {
+    width: 1512px;
+    height: 295px;
+}
+
+.image1 {
+    float: left;
+    width: 656px;
+    height: 133.88px;
+}
+
+.image2 {
+    float: left;
+    width: 656px;
+    height: 133.88px;
+}
+
+
+
+.image3 {
+    width: 1312px;
+    height: 136.66px;
+}
+
+.all-scrollimages {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 136.66;
+    height: 286.91px;
+
+}
+
+.scrollimages {
+    width: 218.66px;
+    height: 287.08px;
+}
+
+.scrollimages img {
+    width: 100%;
+    height: 100%;
+}
+
+.explore {
+    width: 1512px;
+    height: 116.11;
+}
+
+
+.explore img {
+    width: 1312px;
+    height: 116.16px;
+}
+
+.pictures {
+    display: flex;
+    flex-wrap: wrap;
+
+    /* justify-content: space-evenly; */
+}
+
+.picimg {
+    width: 218.66px;
+    height: 285.63;
+}
+
+.picimg img {
+    width: 100%;
+    height: 100%;
+}
+
+.my-assets img {
+    width: 1380px;
+    height: 239.16px;
+}
